@@ -100,7 +100,3 @@ This repository includes a Dockerfile, so Railway can build the PHP/Apache app d
 - This educational app has no login or authorization layer. Add authentication before exposing real inventory data publicly.
 - Add CSRF protection and server-side access controls before production use.
 - The included SQL file contains demonstration data only.
-
-## License
-
-No license has been selected. Add a license before allowing others to reuse or redistribute the project.
